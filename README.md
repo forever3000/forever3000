@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**forever3000/forever3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Autonomous Driving System
+- 🌱 I’m currently learning on Autonomous Driving Sensor Fusion
+- 👯 I’m looking to collaborate on Autonomous Driving System
+- 💬 Ask me about anything related to Autonomous Driving System and Embedded Linux System
+- 📫 How to reach me: n.congvu@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: 
+
+Languages
+- Vietnamese
+- English
+- Korean
+
+Programming Languages
+- ![alt text](https://simpleicons.org/icons/c.svg)
+- ![alt text](https://simpleicons.org/icons/cplusplus.svg)
+- ![alt text](https://simpleicons.org/icons/python.svg)
