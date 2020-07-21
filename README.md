@@ -16,6 +16,6 @@ Languages
 - Korean
 
 Programming Languages
-- ![alt text](https://simpleicons.org/icons/c.svg)
-- ![alt text](https://simpleicons.org/icons/cplusplus.svg)
-- ![alt text](https://simpleicons.org/icons/python.svg)
+- <img height="32" width="32" src="https://simpleicons.org/icons/c.svg" />
+- <img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" />
+- <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
